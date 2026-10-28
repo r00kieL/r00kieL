@@ -1,6 +1,8 @@
 插件
 * b站增强扩展
-* 网页端chatGPT用量统计插件
+* 网页端 chatGPT 网页端插件，内容包括：
+    * 显示状态，数据来源于 [OpenAI Status](https://status.openai.com/)
+    * 显示当前模型型号
 
 app
 * 极简、完全插件化的网易云音乐播放器
